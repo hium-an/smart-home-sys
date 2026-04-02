@@ -1,0 +1,27 @@
+﻿# Claude Code local config
+.claude/
+
+build/
+*.hex
+*.obj
+*.lst
+
+# Keil uVision
+*.uvopt
+*.uvoptx
+*.uvgui.*
+*.uvguix.*
+*.crf
+*.d
+*.o
+*.lnp
+*.htm
+*.SBR
+
+# Proteus
+*.PWI
+*.DBK
+*.workspace
+*.~DSN
+
+PROJECT_STRUCTURE.md
