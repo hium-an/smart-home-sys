@@ -2,21 +2,37 @@
 .claude/
 
 build/
+samples/
 *.hex
 *.obj
 *.lst
+*.ihx
+*.rel
+*.map
+*.mem
+*.rst
+*.sym
 
-# Keil uVision
+# Keil uVision - IDE settings
 *.uvopt
 *.uvoptx
 *.uvgui.*
 *.uvguix.*
+
+# Keil uVision - build output
 *.crf
 *.d
 *.o
 *.lnp
 *.htm
 *.SBR
+*.M51
+*.plg
+*.build_log.htm
+*.OBJ
+*.LST
+Listings/
+Objects/
 
 # Proteus
 *.PWI
