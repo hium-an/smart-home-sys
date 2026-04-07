@@ -1,9 +1,3 @@
-﻿làm sao để tôi tạo được một team agent trong project này sẽ có các nhiệm như (BA, DESIGN, TESTER) có nên không trong dự án nhỏ như vậy và đọc yêu cầu task.md nếu được thì thực hiện và viết file guide.md cho tôi, dựa vào danh sách   
-  items của tôi thiết kế hệ thông smart-home-sys (hệ thông nhúng), và code mẫu có thể dùng lại hoặc học tập từ đó. những items mới thì phải hỏi tôi trước khi thêm, các chức năng bạn có thể mở rộng thêm nếu thực tế có dùng. và có thể    tách các file như items code mẫu và yêu cầu ra, sau khi xong phải viết file guide cách nối mạch chi tiết từng chân như nào như nào, tạo file đã thực hiện những gì rồi để tôi theo dõi được chứ, có câu hỏi nào không ?và trong tương   
-  lai khi tôi thêm items hoặc code mẫu thì bạn có thể mở rộng hệ thống dựa vào các items mới và code mẫu mới đó được chứ, phải kiểm tra xem có oversize nếu viết bằng .c không nhé, và phải viết file giải thích code để add vào docs     
-  file docs giải thích code format như nào tôi sẽ gửi bạn hoặc bạn có thể theo format sau: 1. Giới thiệu về các items, hình ảnh (bạn có thể note lại đeẻ tôi tự thêm hình), công dụng, giải thích code thì phải comment bên trong code (từng dòng nhé, phần khai báo hàm thì không cần giải thích, bên trong hàm cấu hình như nào run như nào phải giải thích code (comment) hết ra) là được tôi có thể chụp lại
-
-
 # Danh sách Chức năng (Features)
 
 | STT | Chức năng (Feature) | Code / Function | Trạng thái | Mô tả hoạt động | Yêu cầu Phần cứng / Ghi chú |
