@@ -8,7 +8,6 @@
 |------|-----------|
 | 25TX610004 | Nguyễn Chí Khang |
 | 25TX810003 | Trương Văn Giáp |
-| 25TX810006 | Lê Trung Hiếu |
 
 ## Mô tả dự án
 
